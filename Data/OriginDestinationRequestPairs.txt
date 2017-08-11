@@ -1,0 +1,6 @@
+NewYorkCity,Birmingham
+Newark,Bangalore
+HongKong,Newark
+Dubai,Frankfurt
+Sydney,Milan
+Paris,HongKong
