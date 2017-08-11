@@ -61,3 +61,25 @@ Example:
 javac Percolation.java
 javac Percolation 100
 
+*****************************************************************
+javac EndOfLegalPrefix.java
+java EndOfLegalPrefix <prefix expression>
+
+Example:
+javac EndOfLegalPrefix.java
+java EndOfLegalPrefix +/*abcd
+
+*******************************************************************
+javac BackTrackingWithRecursion.java
+java BackTrackingWithRecursion <City_names_file> <origin_dest_city_pairs_file> <request_to_fly_city_pairs_file> 
+
+Example
+javac BackTrackingWithRecursion.java
+java BackTrackingWithRecursion C:\Documents\Cities.txt C:\Documents\OriginDestinationCityPairs.txt C:\Documents\OriginDestinationRequestPairs.txt
+
+javac BackTrackingWithStack.java
+java BackTrackingWithStack <City_names_file> <origin_dest_city_pairs_file> <request_to_fly_city_pairs_file> 
+
+Example:
+javac BackTrackingWithStack.java
+java BackTrackingWithStack C:\Documents\Cities.txt C:\Documents\OriginDestinationCityPairs.txt C:\Documents\OriginDestinationRequestPairs.txt
